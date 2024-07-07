@@ -1,6 +1,8 @@
+## Gerador de Recibos em PDF
+
 Este projeto tem como objetivo criar um gerador de recibos automatizado para a psicóloga fictícia Karina Vilela, utilizando Python. 
 
-![Descrição da Imagem](https://onebitcode.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff04298a7-bf43-4bf0-baf7-b90a9d340e03%2Frec.jpg?table=block&id=f6553a41-e0c9-47d0-b1c5-f44d463441c0&spaceId=6e5271d8-2f68-42f5-aa75-5978bbff47fa&width=600&userId=&cache=v2)
+![Descrição da Imagem](https://onebitcode.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff04298a7-bf43-4bf0-baf7-b90a9d340e03%2Frec.jpg?table=block&id=f6553a41-e0c9-47d0-b1c5-f44d463441c0&spaceId=6e5271d8-2f68-42f5-aa75-5978bbff47fa&width=400&userId=&cache=v2)
 
 As bibliotecas usadas são:
 
